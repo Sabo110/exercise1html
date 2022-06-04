@@ -1,0 +1,16 @@
+h1{
+    margin: 0;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+.p3{
+    line-height: 35px;
+}
+.container{
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+}
+.p4 , .p5{
+    text-align: justify;
+}
